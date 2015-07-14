@@ -9,6 +9,7 @@ This is an effort to curate use cases and code examples of exisiting deeplearnin
 - RBM (Restricted Boltzman's Machine)
 - LSTM (Long Short Term Memory)
 
+<br>
 
 **Deepinglearning Libraries**
 
