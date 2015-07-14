@@ -10,11 +10,11 @@ This is an effort to curate use cases and code examples of exisiting deeplearnin
 - LSTM (Long Short Term Memory)
 
 
-**Deepinglearning Libraries*
+**Deepinglearning Libraries**
 
-- Deeplearning4j (Java)
-- Caffe (Mostly for Python)
-- Lasagne (Python)
-- Scikit-neuralnet (Python)
+- [Deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) (Java)
+- [Caffe](http://caffe.berkeleyvision.org/tutorial/) (Mostly for Python)
+- [Lasagne](https://lasagne.readthedocs.org/en/latest/user/installation.html) (Python)
+- [Scikit-neuralnet](http://scikit-neuralnetwork.readthedocs.org/en/latest/) (Python)
 - [Chainer](http://chainer.readthedocs.org/en/latest/reference/optimizers.html) (Python)
-- FANN (Python / C)
+- [FANN](http://leenissen.dk/fann/html/files2/gettingstarted-txt.html) (Python / C)
